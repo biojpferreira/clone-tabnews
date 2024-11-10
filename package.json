@@ -1,0 +1,24 @@
+{
+  "name": "clone-tabnews",
+  "version": "1.0.0",
+  "description": "Clone do site tabnews.com.br",
+  "main": "index.js",
+  "scripts": {
+    "dev":"next dev"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/biojpferreira/clone-tabnews.git"
+  },
+  "author": "biojpferreira",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/biojpferreira/clone-tabnews/issues"
+  },
+  "homepage": "https://github.com/biojpferreira/clone-tabnews#readme",
+  "dependencies": {
+    "next": "^13.1.6",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  }
+}
