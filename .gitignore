@@ -1,6 +1,2 @@
-<<<<<<< HEAD
 .next
-=======
-.next
-.node_modules
->>>>>>> d8f780a (sync)
+node_modules
