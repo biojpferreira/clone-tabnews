@@ -1,12 +1,8 @@
 # Caderno de estudos
 
-
-
 ## NodeJs
 
-Node.js é um ambiente de execução de JavaScript do lado do servidor, que permite que você execute código JavaScript fora de um navegador. Ele foi desenvolvido sobre o motor de execução V8,  foi projetado para construir aplicações de rede rápidas e escaláveis, como APIs, servidores web e outras aplicações de backend.
-
-
+Node.js é um ambiente de execução de JavaScript do lado do servidor, que permite que você execute código JavaScript fora de um navegador. Ele foi desenvolvido sobre o motor de execução V8, foi projetado para construir aplicações de rede rápidas e escaláveis, como APIs, servidores web e outras aplicações de backend.
 
 ### Principais características do Node.js:
 
@@ -26,8 +22,6 @@ Node.js é um ambiente de execução de JavaScript do lado do servidor, que perm
 - **Servidores de arquivos**: O Node.js é eficiente em manipular arquivos e fluxos de dados, o que o torna adequado para sistemas de upload/download de arquivos.
 
 ---
-
-
 
 ## NextJs
 
@@ -50,8 +44,6 @@ Next.js é um framework de desenvolvimento web em JavaScript criado sobre o Reac
    - O Next.js suporta CSS nativo e CSS Modules, facilitando a organização e modularização do estilo em componentes React.
 
 ---
-
-
 
 ## React
 
